@@ -1,0 +1,27 @@
+<RCC>
+  <qresource prefix="Button_Icons">
+    <file>icons8-add-96.png</file>
+    <file>icons8-add.gif</file>
+    <file>icons8-male-user-64.png</file>
+    <file>icons8-capture-96.png</file>
+    <file>icons8-delete-user-96 (1).png</file>
+    <file>icons8-delete-user-96.png</file>
+    <file>icons8-search-128 (1).png</file>
+    <file>icons8-search-128.png</file>
+    <file>icons/adatabase icon.png</file>
+    <file>icons/add user icon.png</file>
+    <file>icons/add user white.png</file>
+    <file>icons/avatar icon.png</file>
+    <file>icons/camera icon.png</file>
+    <file>icons/camera white.png</file>
+    <file>icons/database white.png</file>
+    <file>icons/icons8-menu-bar-64.png</file>
+    <file>icons/icons8-on-off-64.png</file>
+    <file>icons/log out white.png</file>
+    <file>icons/log-out icon.png</file>
+    <file>icons/menubar white.png</file>
+    <file>icons/no! icon.png</file>
+    <file>icons/no! white.png</file>
+    <file>icons/other logout white.png</file>
+  </qresource>
+</RCC>

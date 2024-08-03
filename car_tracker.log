@@ -1,0 +1,13 @@
+2024-06-11 10:22:07,609 - root - INFO - ADMIN started camera at 2024-06-11 10:22:07.
+2024-06-11 10:31:44,956 - root - INFO - User 'admin' successfully logged in at 2024-06-11 10:31:44.
+2024-06-11 10:38:06,259 - root - INFO - ADMIN started camera at 2024-06-11 10:38:06.
+2024-06-11 10:38:35,611 - root - INFO - ADMIN read plate number 06AC520 at 2024-06-11 10:38:35. New plate added to database.
+2024-06-11 10:45:21,063 - root - INFO - ADMIN added 60 penalty points to plate number 06AC520 at 2024-06-11 10:45:21. Reason: speeding
+2024-06-11 10:46:08,979 - root - INFO - ADMIN read plate number 06AC520 at 2024-06-11 10:46:08. Status: Allowed
+2024-06-11 10:46:31,957 - root - INFO - ADMIN added 60 penalty points to plate number 06AC520 at 2024-06-11 10:46:31. Reason: 
+2024-06-11 10:46:55,681 - root - INFO - ADMIN read plate number 06AC520 at 2024-06-11 10:46:55. Status: Restricted
+2024-06-11 10:49:04,110 - root - INFO - User 'ADMIN' added new staff named 'asd' at 2024-06-11 10:49:04.
+2024-06-11 10:50:17,280 - root - INFO - User 'ADMIN' added new staff named 'aaaa' at 2024-06-11 10:50:17.
+2024-06-11 10:51:35,573 - root - ERROR - Error: Could not read frame.
+2024-06-11 10:51:35,574 - root - ERROR - Error during watching screen: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\highgui\src\window.cpp:971: error: (-215:Assertion failed) size.width>0 && size.height>0 in function 'cv::imshow'
+
